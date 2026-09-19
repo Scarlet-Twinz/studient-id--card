@@ -52,3 +52,9 @@ The generated ID card is saved in the current working directory using the entere
 **Anthony Emmanuella Mmasinachi**
 
 GitHub: [@Scarlet-Twinz](https://github.com/Scarlet-Twinz)
+
+## Project Links
+
+- **Repository:** https://github.com/Scarlet-Twinz/studient-id--card
+- **Author:** Anthony Emmanuella Mmasinachi
+- **GitHub:** https://github.com/Scarlet-Twinz
