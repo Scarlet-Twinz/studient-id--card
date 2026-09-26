@@ -1,4 +1,4 @@
-#  Student ID Card Generator
+# Student ID Card Generator
 
 A small Python desktop application that generates student ID card images from information entered through a Tkinter form.
 
