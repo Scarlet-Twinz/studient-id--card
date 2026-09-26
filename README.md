@@ -34,6 +34,16 @@ Tkinter is included with many standard Python installations. On some systems it 
 
 ## Run Locally
 
+Clone the repository and install the dependency:
+
+```bash
+git clone https://github.com/Scarlet-Twinz/studient-id--card.git
+cd studient-id--card
+pip install Pillow
+```
+
+Then run:
+
 ```bash
 python id_card.py
 ```
